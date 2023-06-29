@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandunDayananda
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Engineering and Data Science
 - 🌱 I’m currently learning everything I work with
 - 💞️ I’m looking to collaborate on anything related to Data Engineering
 - 📫 How to reach me wdsandunpathmasiri@gmail.com  www.linkedin.com/in/sandun-dayananda-1b8a51134
