@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=SandunDayananda&color=grey">
 </p>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/0" alt="Recent Article 0"> 
 <!---
 <p align="center">
     <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
