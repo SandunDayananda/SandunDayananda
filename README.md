@@ -5,7 +5,7 @@
 - 📫 How to reach me wdsandunpathmasiri@gmail.com  www.linkedin.com/in/sandun-dayananda-1b8a51134
 
   ### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=SandunDayananda&show_icons=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SandunDayananda&show_icons=true&theme=gotham" alt="SandunDayananda" />
 
 <!---
 SandunDayananda/SandunDayananda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
