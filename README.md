@@ -16,22 +16,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+here!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-[![Sandun Dayananda Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=sandundayananda)](https://medium.com/@sandundayananda)
-
 
 <!---
 <p align="center">
