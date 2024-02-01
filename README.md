@@ -30,12 +30,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<a href="https://github.com/SandunDayananda/medium-story">
-  <img
-    height="200"
-    src="https://medium-story.vercel.app/api?SandunDayananda=@s09001"
-  />
-</a>
+[![My Medium story](https://medium-story.vercel.app/api?sandundayananda=@s09001)](https://github.com/SandunDayananda/medium-story)
 
 <!---
 <p align="center">
