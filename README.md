@@ -2,11 +2,11 @@
 - 👀 I’m interested in Data Engineering and Data Science
 - 🌱 I’m currently learning everything I work with
 - 💞️ I’m looking to collaborate on anything related to Data Engineering
-- 📫 How to reach me:
+### 📫 How to reach me:
 
-  wdsandunpathmasiri@gmail.com
-  https://medium.com/@sandundayananda
-  www.linkedin.com/in/sandun-dayananda-1b8a51134
+- Email: wdsandunpathmasiri@gmail.com
+- Medium: [Medium Profile](https://medium.com/@sandundayananda)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sandun-dayananda-1b8a51134)
 
 <!---
 SandunDayananda/SandunDayananda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
