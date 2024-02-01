@@ -30,8 +30,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-<a target="_blank" href="URL_OF_YOUR_MEDIUM_ARTICLE"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/0" alt="Recent article #1"></a>
-
+<a href="https://github.com/SandunDayananda/medium-story">
+  <img
+    height="200"
+    src="https://medium-story.vercel.app/api?SandunDayananda=@s09001"
+  />
+</a>
 
 <!---
 <p align="center">
