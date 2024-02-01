@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/0" alt="Recent article #1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/1" alt="Recent article #1"></a>
+<a target="_blank" href="URL_OF_YOUR_MEDIUM_ARTICLE"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sandundayananda/0" alt="Recent article #1"></a>
 
 <!---
 <p align="center">
