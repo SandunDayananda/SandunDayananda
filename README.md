@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on anything related to Data Engineering
 - 📫 How to reach me:
 
--                    wdsandunpathmasiri@gmail.com
--                    https://medium.com/@sandundayananda
--                    www.linkedin.com/in/sandun-dayananda-1b8a51134
+  wdsandunpathmasiri@gmail.com
+  https://medium.com/@sandundayananda
+  www.linkedin.com/in/sandun-dayananda-1b8a51134
 
 <!---
 SandunDayananda/SandunDayananda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
