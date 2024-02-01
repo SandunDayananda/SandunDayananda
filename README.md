@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <h1 align="center">✩&emsp;Sandun&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+here!&font=Honk&pause=1000&color=48CAA8&random=false&width=435&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+here!&font=Honk&pause=200&color=48CAA8&random=false&width=435&center=true&width=280&height=50">
 <p align="center">
     
 
