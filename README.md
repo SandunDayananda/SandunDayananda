@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center" style="font-family: Honk; font-size: 40px;">
-    <h1 style="color: #48CAA8;" align="center">✩&emsp;Sandun&emsp;✩</h1>
+    <h1 align="center" style="font-family: Honk; font-size: 40px; color: #48CAA8;">✩&emsp;Sandun&emsp;✩</h1>
 </p>
 
 
