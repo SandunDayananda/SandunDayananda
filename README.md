@@ -13,7 +13,6 @@ SandunDayananda/SandunDayananda is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<br>
 <p align="center">
     <h1 align="center">✩&emsp;Sandun&emsp;✩</h1>
 </p>
