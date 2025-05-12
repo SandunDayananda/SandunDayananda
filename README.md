@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandunDayananda
 - 👀 I’m interested in Data Engineering, DevOps and Data Science
-- 🌱 I’m currently learning everything I work with
-- 💞️ I’m looking to collaborate on anything related to Data Engineering
+- 🌱 I love to learn everything I work with
+- 💞️ I’m open to collaborate on anything related to Data Engineering, DevOps and Data Science
 ### 📫 How to reach me:
 
 - Email: wdsandunpathmasiri@gmail.com
